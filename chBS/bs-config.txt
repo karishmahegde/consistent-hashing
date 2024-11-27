@@ -1,0 +1,3 @@
+
+bnserver.id=0
+bnserver.port=3768

@@ -1,0 +1,6 @@
+
+nameserver.id=390
+nameserver.port=7432
+
+bnserver.ip=127.0.0.1
+bnserver.port=3768
