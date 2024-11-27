@@ -26,5 +26,5 @@ This project implements a **Consistent Hashing-based Distributed Key-Value Stora
 - Extending support for multimedia data (e.g., images, videos) to handle diverse workloads.
 - Adding virtual servers to enhance scalability and fault tolerance.
 
-## 🔷 Refernece
-[Consistent Hashing]([https://github.com/karishmahegde/consistent-hashing](https://youtu.be/UF9Iqmg94tk?si=xIXjNntvbkFqL1zY))
+## 🔷 Referneces
+- [Consistent Hashing](https://youtu.be/UF9Iqmg94tk?si=xIXjNntvbkFqL1zY)
